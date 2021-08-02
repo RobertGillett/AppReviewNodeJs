@@ -1,0 +1,19 @@
+{
+  "name": "appreviewnode",
+  "version": "1.0.0",
+  "description": "App Store reews api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertGillett/appreviewnode.git"
+  },
+  "author": "Rob Gillett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertGillett/appreviewnode/issues"
+  },
+  "homepage": "https://github.com/RobertGillett/appreviewnode#readme"
+}
