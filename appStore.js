@@ -59,7 +59,7 @@ module.exports = function appStoreReviews(app) {
 
   function saveJSON() {
     let data = JSON.stringify(allData);
-    fs.writeFile(`./json/${app.name}.json`, data, (err) => {
+    fs.writeFile(`./json/reviews-${app.id}.json`, data, (err) => {
       // fs.writeFile(`test.json`, data, (err) => {
 
       if (err) throw err;
