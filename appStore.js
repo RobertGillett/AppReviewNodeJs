@@ -30,6 +30,7 @@ module.exports = function appStoreReviews(app) {
   });
   }
 
+
   function parseReviewData(data) {
     function parse(d) {
       var o = new Object();
